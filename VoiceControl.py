@@ -29,6 +29,7 @@ if __name__ == "__main__":
 
         # Exit the loop if the user says 'exit'
         if audio_input == 'exit':
+            print("Exiting...")
             break
 
         # Print the transcribed text
